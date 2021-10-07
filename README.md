@@ -1,1 +1,2 @@
-# Example1
+# Readme
+This is just an example.
